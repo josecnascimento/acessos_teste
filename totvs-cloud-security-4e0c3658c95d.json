@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "totvs-cloud-security",
+  "private_key_id": "4e0c3658c95d8af536a44ac1bca94ed0535dd029",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDN0jkS4MZ8tRvI\nYlaNRMWorDEFRBJDzUebcqv92fJmUtZQIrzoATCooZqwRv+eaUQMNsHQLuwYkT3j\nHsKy4IxGpZF0qli/uEwBzaXKaf/b675rGHJkG9617Q9FcnqT+9+Wgx7L34IkY0l7\nqMfmTQYp2Sh7zFHd9o7KgK9/Hu99noEMbXEeH3/gditcH4bq87N1oXRRk0rwwcUK\ndCOG/RNfj1vkuxAZr1n0uCJBW/YgE60Jlu5gBRlp9D308Je8JO6KxnTCe5awIGzd\naCj9usaKqBpCXbD3Li2L9/z/j7FCXd2VdC1ZTOVkJ2Yuhi3GOl3BVMiu5QhfDbT2\nL7KfpBqVAgMBAAECggEAGl7+GxIbvGzEE4euCUmvfa4aVc9j+7X4n80whkT/jua8\nOOZKh/tnDaQvGrjuFZDtPBdj+9WXQIqTgF83mQ22S3L5URZmaqIlcvGzdVzhgH8T\nFcu7FGKRxYOLOl2xoPZbroA8WOjZVuo1xxdYDYT+7iu5ySrjrmnh38ZfNg1zqAeF\nGibrmL8CiOW7RmSlluheZuRtHVwm6Qw3DJb6yfl7KQ3I4KP7hyhUl5UagBsn8rGG\n7jDXLQj253Fl9heeQGQI7P3oiPWghULzJKvSMyIZfWr/0yFQxBsRhto4YX8CD08A\n/JnFJbMDZ8LsO0VDb/JUe9ifYAL83Qs24GmAO5sawQKBgQDzp7y2/M/qpxcR+pqg\nU6lvFVyLaBB7f2w3uhGStQE5FnrIICoLHhi53Ic1W+BcGPsK0Xgf0qHRnbxUoV0Y\nGu4H6tpwaJQjlKnB152OrOa/xl/5hhhmIT2YHgpZkMBh+0klyifbG6UMUq5sr/5q\nWoqLXll165Vc47obPj/l+M975QKBgQDYP8UR0jV6NyNHOs2NTtLW+v8QTteGko+w\nGw/vJg8V/kwYpeaXcDx7ktmTzolZhYrJ7AgVMdSxulgAgx5LtcEHNu3zvWDlQRnK\nxW8tDSsUGrKcoYd7ofbgEG6fQ8famA17xvIl7cZNI7GeqtfsPIfHd4bbHL/OHTXo\nkcku4LcY8QKBgEiv7pVsYB5xkGlVqJFRxAcWiVAxUFF3VvJc+OcaRm4gbaqMJd7B\nMMEpr9BUQ19WOHYmvT5JGOsuskNRDDOnvQDxqA7GtALVU7s3NpKctA3cAT+wKFE3\nc2eQ9qd3jlzsmQrD/xXXbmp5s/1Kl4xkzFX9ZJTQHfPjH98GuAtEKamdAoGBAJOP\ncDoo5rTuyvPf/ENgdh6cR1ApfIgnmkThMo5Nuh2X2PU4v5C21Y69NhrV5INhzMLc\nfOd5iVl9fm9bCWFANOdnZBfeMjA9rAvhjWuAgNTHIvoefwSuEHf0voePCODwwMKl\njray+Y3JvXo3uf9Jjp1dwnfhtkA/TnnUgSOr00UBAoGBAKtL1Y4Opye+7eWTUFwi\nwvq3F9JzgMVt22g0LBTrBiBmcpEFXoHC90MleM13nhrW+rx7i8m3sI/Bw5aDmLnz\nnowXrjKNYyOs/V3KOHOwM6t4NIKrr72Z+ZFGT5kQhfjcwYARLeO4amLGsWhV3XTF\nmN+eSoImIbrJj4vWr4lxX8in\n-----END PRIVATE KEY-----\n",
+  "client_email": "gestaoacessos-teste@totvs-cloud-security.iam.gserviceaccount.com",
+  "client_id": "107080831476455415504",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gestaoacessos-teste%40totvs-cloud-security.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
